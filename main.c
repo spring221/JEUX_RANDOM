@@ -47,7 +47,7 @@ int main(int arc,char *arvg[]){
 
     }while(trust == 0);
 
-    printf("%d\n", Rand_nbre);
+ 
 
     return 0;
 }
